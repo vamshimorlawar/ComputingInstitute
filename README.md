@@ -1,4 +1,4 @@
-# PersisitentComputingInstitute
+# Persisitent Computing Institute
 Lisp, Turtle
 
 
