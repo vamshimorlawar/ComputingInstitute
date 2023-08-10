@@ -2,7 +2,7 @@
 Lisp, Turtle
 
 
-PROBLEM STATEMENT
+Problem Statement
 
 A tree begins as a stem and small branches growing out of seed. As time passes, existing branches lengthen and thicken and branches ramify into smaller branches at their tips. Simulate this growth in NetLogo using behaviors that are close analogies to biological mechanisms. Justify your choices with reference to biological mechanisms. Feel free to investigate such mechanisms on the web. The more accurate the better.
 -- Your final product should look as close to a video of an actual tree growing as possible.
